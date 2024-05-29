@@ -78,9 +78,9 @@ Motivated and adaptable Junior Software Engineer with a robust foundation in sof
 ---
 
 ## GitHub Stats:
-[![Tray's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/Haroun2021)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/Haroun2021)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://github.com/Haroun2021)
+[![Tray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haroun2021&show_icons=true&theme=radical)](https://github.com/Haroun2021)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haroun2021&layout=compact)](https://github.com/Haroun2021)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haroun2021&theme=dark)](https://github.com/Haroun2021)
 
 ---
 
