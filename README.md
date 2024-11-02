@@ -105,24 +105,3 @@
 
 ---
 
-## 🛠️ Skills:
-<p style="animation: fadeIn 2s;">
-- **Programming Languages**: 
-  <a href="https://www.python.org" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/></a> Python, 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/></a> JavaScript, 
-  <a href="https://www.mysql.com/" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="30" height="30"/></a> SQL
-- **Web Development**: 
-  <a href="https://www.w3.org/html/" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="30" height="30"/></a> HTML, 
-  <a href="https://www.w3schools.com/css/" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30"/></a> CSS, 
-  <a href="https://nodejs.org" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30"/></a> Node.js, 
-  <a href="https://angular.io" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="30" height="30"/></a> Angular, 
-  <a href="https://expressjs.com" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="30" height="30"/></a> Express.js
-- **Mobile Development**: 
-  <a href="https://flutter.dev" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="30" height="30"/></a> Flutter
-- **Cloud Services**: 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="30" height="30"/></a> Azure
-- **CI/CD Tools**: 
-  <a href="https://www.docker.com/" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"/></a> Docker, 
-  <a href="https://kubernetes.io" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="30" height="30"/></a> Kubernetes, 
-  <a href="https://www.jenkins.io" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="30" height="30"/></a> Jenkins, 
-  <a href="https://git-scm.com/" target="_blank" style="animation: pulse 1.5s infinite;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a> Git
