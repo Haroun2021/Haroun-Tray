@@ -15,44 +15,16 @@ I'm a highly motivated Junior Software Developer with a passion for solving real
 
 ---
 
-## 🏢 Experience
-### **Smartovate (Software Developer)**  
-📅 *Dec 2023 - Feb 2024 | Sousse, Tunisia*  
-- Developed a Flutter app and orchestrated Django microservices.
-- Deployed solutions to Azure ensuring robust cloud infrastructure.
-- Led a team of interns and provided mentorship on development tasks.
-
-### **Caustaza Group (Intern)**  
-📅 *Aug 2023 - Dec 2023 | London, UK*  
-- Contributed backend services using Django for a major project.
-- Successfully deployed apps and services to Azure.
-
-### **ITMador (PFE Intern)**  
-📅 *Feb 2023 - Jun 2023 | Mahdia, Tunisia*  
-- Worked on the BMC-Project using the MEAN Stack for construction management.
-
-### **IAMAPS (Intern)**  
-📅 *Jul 2021 - Aug 2021; Jul 2022 - Aug 2022 | Mahdia, Tunisia*  
-- Worked on development projects involving Node.js, AngularJS, and MongoDB.
-
----
-
-## 🎓 Education
-- **Engineer’s Degree in Computer Science** – *EPI International Multidisciplinary School (2023 - 2026)*  
-- **Bachelor’s Degree in Computer Science** – *Higher Institute of Computer Science Mahdia (2020 - 2023)*  
-- **Baccalaureate in Experimental Sciences** – *OKba High School (with honors) (2015 - 2020)*  
-
----
-
 ## 🛠️ Skills
-### **Programming Languages**
+
+### Programming Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50"/>
 </p>
 
-### **Web Development**
+### Web Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/>
@@ -61,44 +33,50 @@ I'm a highly motivated Junior Software Developer with a passion for solving real
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>
 </p>
 
-### **Mobile Development**
+### Mobile Development
 <p>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/>
 </p>
 
-### **Cloud Services**
+### Cloud Services
 <p>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50"/>
 </p>
 
-### **DevOps Tools**
+### DevOps Tools
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="50" height="50"/>
 </p>
 
 ---
 
 ## 🏆 Certifications
-### **Credly Badges**
-- [Microsoft Azure Fundamentals (AZ-900)](https://www.credly.com/badges/b5a7d2fe-9bbf-48b5-aafd-3c8883a7af2f/public_url)
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b5a7d2fe-9bbf-48b5-aafd-3c8883a7af2f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  
-- [Git and GitHub Essentials](https://www.credly.com/badges/ae7b2dd7-d0ce-4f30-885d-8301ce58dac7/public_url)
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ae7b2dd7-d0ce-4f30-885d-8301ce58dac7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  
-- [Web Development Essentials](https://www.credly.com/badges/2c3090bc-b157-46c9-b79c-973a6df952ff/public_url)
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2c3090bc-b157-46c9-b79c-973a6df952ff" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/6468b57d-17d7-43da-ae1e-750dbb9ecc08/public_url)
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6468b57d-17d7-43da-ae1e-750dbb9ecc08" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-- [DevOps Essentials](https://www.credly.com/badges/1b97c21a-9589-4622-8f6e-2c1937b98188/public_url)
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1b97c21a-9589-4622-8f6e-2c1937b98188" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-- [CCNA: Switching, Routing & Wireless Essentials](https://www.credly.com/badges/d779557b-0ffe-4810-ba6c-e6d419087378/public_url)
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d779557b-0ffe-4810-ba6c-e6d419087378" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<p align="center">
+  <a href="https://www.credly.com/badges/b5a7d2fe-9bbf-48b5-aafd-3c8883a7af2f/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/4136ced8-75d0-42df-b0a7-244ccaea0a7e/image.png" alt="Azure Fundamentals" width="150" />
+  </a>
+  <a href="https://www.credly.com/badges/ae7b2dd7-d0ce-4f30-885d-8301ce58dac7/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/1d857b6c-5088-42e1-9e12-cd5667bc5d8b/image.png" alt="Git and GitHub Essentials" width="150" />
+  </a>
+  <a href="https://www.credly.com/badges/2c3090bc-b157-46c9-b79c-973a6df952ff/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/d146a57d-11e4-4cf3-ae57-b2a7c372d91b/image.png" alt="Web Development Essentials" width="150" />
+  </a>
+  <a href="https://www.credly.com/badges/6468b57d-17d7-43da-ae1e-750dbb9ecc08/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/684d3b6e-e9b1-4fa4-94e3-8a2d15799e92/image.png" alt="AWS Cloud Practitioner" width="150" />
+  </a>
+  <a href="https://www.credly.com/badges/1b97c21a-9589-4622-8f6e-2c1937b98188/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/cd9c0953-3a4c-4c3e-b8b3-bbc1dcf8784c/image.png" alt="DevOps Essentials" width="150" />
+  </a>
+  <a href="https://www.credly.com/badges/d779557b-0ffe-4810-ba6c-e6d419087378/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/edc8a178-e638-4b99-b9ca-e9d1df38b5a1/image.png" alt="CCNA" width="150" />
+  </a>
+</p>
 
 ---
 
@@ -108,11 +86,4 @@ I'm a highly motivated Junior Software Developer with a passion for solving real
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/tray-haroun-4627a51b9" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
-  </a>
-</p>
-
----
-
-### ⚡ Fun Fact
-🌱 I'm always eager to learn and grow both professionally and personally. Let's build something amazing together!
+    <img src="https:
