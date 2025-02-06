@@ -1,7 +1,7 @@
-<h1 align="center" style="animation: fadeIn 2s ease-in-out;">Hi there! 👋 I'm Tray Haroun</h1>
-<h3 align="center" style="animation: bounceIn 2s ease-in-out;">Junior Software Developer & DevOps Enthusiast</h3>
+<h1 align="center">Hi there! 👋 I'm Tray Haroun</h1>
+<h3 align="center">Junior Software Developer & DevOps Enthusiast</h3>
 
-<p align="center" style="animation: zoomIn 2s;">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=haroun2021&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Age-24-blue" alt="Age Badge" />
   <img src="https://img.shields.io/badge/Location-Mahdia%2C%20Tunisia-blue" alt="Location Badge" />
@@ -81,20 +81,24 @@ I'm a highly motivated Junior Software Developer with a passion for solving real
 ---
 
 ## 🏆 Certifications
-<p>
-  <a href="https://learn.microsoft.com/en-us/certifications/exams/az-900/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Microsoft_Azure_Logo.svg/1200px-Microsoft_Azure_Logo.svg.png" alt="Microsoft Azure Fundamentals" width="100" />
-  </a>
-  <a href="https://www.credly.com/badges/aws-certified-cloud-practitioner" target="_blank">
-    <img src="https://d1.awsstatic.com/training-and-certification/CertBadges/AWS-Certified_Cloud-Practitioner_512x512.3d5ad2244bcb1a9103b3fa3167d6da8f39c47638.png" alt="AWS Cloud Practitioner" width="100" />
-  </a>
-  <a href="https://www.credly.com/badges/aws-certified-solutions-architect" target="_blank">
-    <img src="https://d1.awsstatic.com/training-and-certification/CertBadges/AWS-Certified_Solutions-Architect-Associate_512x512.1b7e896e1e325c0e31f4150a930f28d3546b229d.png" alt="AWS Solutions Architect" width="100" />
-  </a>
-  <a href="https://www.techworld-with-nana.com/" target="_blank">
-    <img src="https://techworld-with-nana.com/assets/certified-devops-practitioner-badge-39e46c11a40a47c2a8c61e0c2ab4caa1a1135539ff9eb88c93a78177854a8ff1.png" alt="DevOps Practitioner by Nana" width="100" />
-  </a>
-</p>
+### **Credly Badges**
+- [Microsoft Azure Fundamentals (AZ-900)](https://www.credly.com/badges/b5a7d2fe-9bbf-48b5-aafd-3c8883a7af2f/public_url)
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b5a7d2fe-9bbf-48b5-aafd-3c8883a7af2f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  
+- [Git and GitHub Essentials](https://www.credly.com/badges/ae7b2dd7-d0ce-4f30-885d-8301ce58dac7/public_url)
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ae7b2dd7-d0ce-4f30-885d-8301ce58dac7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  
+- [Web Development Essentials](https://www.credly.com/badges/2c3090bc-b157-46c9-b79c-973a6df952ff/public_url)
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2c3090bc-b157-46c9-b79c-973a6df952ff" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/6468b57d-17d7-43da-ae1e-750dbb9ecc08/public_url)
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6468b57d-17d7-43da-ae1e-750dbb9ecc08" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+- [DevOps Essentials](https://www.credly.com/badges/1b97c21a-9589-4622-8f6e-2c1937b98188/public_url)
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1b97c21a-9589-4622-8f6e-2c1937b98188" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+- [CCNA: Switching, Routing & Wireless Essentials](https://www.credly.com/badges/d779557b-0ffe-4810-ba6c-e6d419087378/public_url)
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d779557b-0ffe-4810-ba6c-e6d419087378" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 
