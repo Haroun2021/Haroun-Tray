@@ -94,19 +94,19 @@ I'm a passionate **Junior Software Developer** and **DevOps enthusiast** with ha
 ## 🏆 Certifications
 <p>
   <a href="https://www.credly.com/badges/b5a7d2fe-9bbf-48b5-aafd-3c8883a7af2f/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/4136ced8-75d0-42df-b0a7-244ccaea0a7e/image.png" alt="Azure Fundamentals" width="150" />
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Azure Fundamentals" width="150" />
   </a>
   <a href="https://www.credly.com/badges/ae7b2dd7-d0ce-4f30-885d-8301ce58dac7/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/1d857b6c-5088-42e1-9e12-cd5667bc5d8b/image.png" alt="Git and GitHub Essentials" width="150" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git and GitHub Essentials" width="150" />
   </a>
   <a href="https://www.credly.com/badges/2c3090bc-b157-46c9-b79c-973a6df952ff/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/d146a57d-11e4-4cf3-ae57-b2a7c372d91b/image.png" alt="Web Development Essentials" width="150" />
+    <img src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="Web Development Essentials" width="150" />
   </a>
   <a href="https://www.credly.com/badges/6468b57d-17d7-43da-ae1e-750dbb9ecc08/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/684d3b6e-e9b1-4fa4-94e3-8a2d15799e92/image.png" alt="AWS Cloud Practitioner" width="150" />
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS Cloud Practitioner" width="150" />
   </a>
   <a href="https://www.credly.com/badges/1b97c21a-9589-4622-8f6e-2c1937b98188/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/cd9c0953-3a4c-4c3e-b8b3-bbc1dcf8784c/image.png" alt="DevOps Essentials" width="150" />
+    <img src="" alt="DevOps Essentials" width="150" />
   </a>
   <a href="https://www.credly.com/badges/d779557b-0ffe-4810-ba6c-e6d419087378/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/edc8a178-e638-4b99-b9ca-e9d1df38b5a1/image.png" alt="CCNA" width="150" />
