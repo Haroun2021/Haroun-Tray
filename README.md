@@ -109,7 +109,7 @@ I'm a passionate **Junior Software Developer** and **DevOps enthusiast** with ha
     <img src="" alt="DevOps Essentials" width="150" />
   </a>
   <a href="https://www.credly.com/badges/d779557b-0ffe-4810-ba6c-e6d419087378/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/edc8a178-e638-4b99-b9ca-e9d1df38b5a1/image.png" alt="CCNA" width="150" />
+    <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="CCNA" width="150" />
   </a>
 </p>
 
