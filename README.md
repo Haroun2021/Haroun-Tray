@@ -177,8 +177,10 @@ My career goal is to continuously grow as a **Software Engineer & DevOps Profess
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haroun2021&theme=tokyonight" alt="Profile Details" />
 </p>
+
 <p align="center">
-  <img src="https://github.com/Haroun2021/Haroun2021/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haroun2021&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haroun2021&theme=tokyonight" alt="Stats Card" />
 </p>
 
 
