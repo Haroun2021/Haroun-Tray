@@ -174,9 +174,7 @@ My career goal is to continuously grow as a **Software Engineer & DevOps Profess
   <img src="https://github-contributions-api.deno.dev/Haroun2021.svg" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haroun2021&repo=your-top-project&theme=tokyonight" alt="Pinned Project" />
-</p>
+
 
 ---
 
