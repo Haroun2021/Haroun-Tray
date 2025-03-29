@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there! I'm Tray Haroun</h1>
-<h3 align="center">🚀 Junior Software Developer | DevOps Enthusiast | Cloud & Backend Lover</h3>
+<h3 align="center">🚀 Software Engineer | DevOps Enthusiast | Cloud & Backend Lover</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haroun2021&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -18,9 +18,34 @@
 
 ## 🌟 About Me
 
-I'm a passionate **Junior Software Developer** and **DevOps enthusiast** with strong skills in backend development, cloud infrastructure, and DevOps practices.  
-I love building scalable solutions, automating workflows, and learning new technologies every day.  
-Currently, I'm focusing on strengthening my skills in **DevOps, Cloud, MERN stack, and Java Spring Boot**.
+I am a motivated and versatile **Software Engineer** with solid experience in **web development, cloud computing, and DevOps practices**.  
+My academic background and professional journey have shaped me into a **problem-solver** who enjoys building scalable, efficient, and secure software solutions.
+
+I specialize in:
+- **Backend & Full-Stack Development (Java, Spring Boot, Node.js, Angular, React)**
+- **Cloud & DevOps (AWS, Azure, Docker, Kubernetes, CI/CD, Terraform)**
+
+My career goal is to continuously grow as a **Software Engineer & DevOps Professional**, delivering high-quality solutions while learning cutting-edge technologies and contributing to impactful projects.
+
+---
+
+## 🎯 What I’m Currently Working On
+
+- 🚀 **Completing my DevOps Bootcamp (TechWorld with Nana)**
+- 🔥 **Deep Learning Project (MERN Stack-based)**
+- 🌐 **Java Spring Boot & Angular Project**
+- 🗃️ **Database Management & Optimization Project**
+- 📱 **iOS Crash Course & Mobile Project**
+
+---
+
+## 📚 What I’m Learning
+
+- 🌩️ **Advanced DevOps & Cloud Tools (AWS, Terraform, Kubernetes, Jenkins)**
+- 🖥️ **Java Spring Boot & Angular Full-Stack Development**
+- 🧠 **Deep Learning & AI Integration in Web Apps**
+- 📊 **Database Optimization & SQL Performance**
+- 🔐 **DevSecOps Essentials**
 
 ---
 
@@ -41,7 +66,7 @@ Currently, I'm focusing on strengthening my skills in **DevOps, Cloud, MERN stac
 
 ### 🚀 **Software Developer - Smartovate**
 *Dec 2023 - Feb 2024 | Sousse, Tunisia*
-- Built a complete **Flutter application** and orchestrated **Django microservices**.
+- Built a complete **Django microservices** system and contributed to mobile app integration.
 - Managed **backend & frontend integration**.
 - Deployed services on **Azure** ensuring scalable infrastructure.
 - Mentored junior interns in development.
@@ -78,11 +103,6 @@ Currently, I'm focusing on strengthening my skills in **DevOps, Cloud, MERN stac
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" />
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" />
-</p>
-
-### 📱 Mobile Development
-<p>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" />
 </p>
 
 ### ☁️ Cloud Platforms
@@ -124,6 +144,38 @@ Currently, I'm focusing on strengthening my skills in **DevOps, Cloud, MERN stac
   <a href="https://www.credly.com/badges/d779557b-0ffe-4810-ba6c-e6d419087378/public_url" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="CCNA" width="150" />
   </a>
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haroun2021&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haroun2021&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroun2021&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🟢 Extra GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haroun2021&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" alt="Contribution Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributions-api.deno.dev/Haroun2021.svg" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haroun2021&repo=your-top-project&theme=tokyonight" alt="Pinned Project" />
 </p>
 
 ---
