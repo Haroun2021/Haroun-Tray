@@ -131,29 +131,29 @@ My career goal is to continuously grow as a **Software Engineer & DevOps Profess
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/d779557b-0ffe-4810-ba6c-e6d419087378/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/Haroun2021/Haroun2021/main/assets/ccna-switching-routing-and-wireless-essentials.png" alt="Cisco CCNA" width="120" />
+    <img src="assets/ccna-switching-routing-and-wireless-essentials.1.png" alt="Cisco CCNA" width="120" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/b5a7d2fe-9bbf-48b5-aafd-3c8883a7af2f/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/Haroun2021/Haroun2021/main/assets/microsoft-certified-azure-fundamentals.png" alt="Azure Fundamentals" width="120" />
+    <img src="assets/microsoft-certified-azure-fundamentals (1).png" alt="Azure Fundamentals" width="120" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.credly.com/badges/1b97c21a-9589-4622-8f6e-2c1937b98188/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/Haroun2021/Haroun2021/main/assets/devops-essentials.png" alt="IBM DevOps Essentials" width="120" />
+    <img src="assets/devops-essentials.2.png" alt="IBM DevOps Essentials" width="120" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/2c3090bc-b157-46c9-b79c-973a6df952ff/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/Haroun2021/Haroun2021/main/assets/web-development-with-html-css-javascript-essentials.png" alt="IBM Web Development Essentials" width="120" />
+    <img src="assets/web-development-with-html-css-javascript-essentials.png" alt="IBM Web Development Essentials" width="120" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/3cbd38d5-cd10-4b9d-9a5f-1e5825b83d7d/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/Haroun2021/Haroun2021/main/assets/introduction-to-cloud-computing.png" alt="IBM Cloud Computing" width="120" />
+  <a href="https://www.credly.com/badges/0516ccb8-afc0-4b98-8c00-c1a0b5a636c1/public_url" target="_blank">
+    <img src="assets/introduction-to-cloud-computing.png" alt="IBM Cloud Computing" width="120" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/ae7b2dd7-d0ce-4f30-885d-8301ce58dac7/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/Haroun2021/Haroun2021/main/assets/git-and-github-essentials.png" alt="IBM Git & GitHub Essentials" width="120" />
+    <img src="assets/git-and-github-essentials.1.png" alt="IBM Git & GitHub Essentials" width="120" />
   </a>
 </p>
 
