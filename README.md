@@ -164,12 +164,6 @@ My career goal is to continuously grow as a **Software Engineer & DevOps Profess
 
 ---
 
-## 🟢 Extra GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haroun2021&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" alt="Contribution Stats" />
-</p>
-
 <p align="center">
   <img src="https://github-contributions-api.deno.dev/Haroun2021.svg" alt="Contribution Graph" />
 </p>
