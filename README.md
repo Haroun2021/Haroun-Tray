@@ -147,29 +147,28 @@ My career goal is to continuously grow as a **Software Engineer & DevOps Profess
 </p>
 
 ---
-
 ## 📊 GitHub Stats & Activity
 
+### 🎯 Contribution & Profile Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haroun2021&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haroun2021&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haroun2021&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroun2021&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ---
 
+### 🚀 Stats & Most Used Languages
+
 <p align="center">
-  <img src="https://github-contributions-api.deno.dev/Haroun2021.svg" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Haroun2021&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haroun2021&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroun2021&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -177,9 +176,18 @@ My career goal is to continuously grow as a **Software Engineer & DevOps Profess
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haroun2021&theme=tokyonight" alt="Stats Card" />
 </p>
 
-
-
 ---
+
+### 🟢 Contribution Graph & Snake Animation
+
+<p align="center">
+  <img src="https://github-contributions-api.deno.dev/Haroun2021.svg" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Haroun2021/Haroun2021/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
 
 ## 📬 Connect With Me
 
