@@ -1,3 +1,25 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/Haroun2021" width="150" height="150" alt="Profile Picture" style="border-radius: 50%;" />
+</p>
+
+<h3 align="center">Tray Haroun</h3>
+<p align="center">
+  🧑‍💻 Software Engineer | DevOps Enthusiast  
+  <br />
+  🌍 Sousse, Tunisia  
+  <br />
+  📩 harountray33@gmail.com  
+</p>
+
+<p align="center">
+  <a href="mailto:harountray33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tray-haroun-4627a51b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Haroun2021" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/Haroun2021/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
+
+---
+
 <h1 align="center">👋 Hey there! I'm Tray Haroun</h1>
 <h3 align="center">🚀 Software Engineer | DevOps Enthusiast | Cloud & Backend Lover</h3>
 
