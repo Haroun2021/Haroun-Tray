@@ -165,30 +165,33 @@ My career goal is to continuously grow as a **Software Engineer & DevOps Profess
 
 ### 🎯 Contribution & Profile Insights
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haroun2021&theme=tokyonight" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haroun2021&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haroun2021&theme=tokyonight" alt="Profile Details" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haroun2021&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Haroun2021&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroun2021&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haroun2021&theme=tokyonight" alt="Top Languages by Repo" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haroun2021&theme=tokyonight" alt="Stats Card" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haroun2021&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroun2021&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haroun2021&theme=tokyonight" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haroun2021&theme=tokyonight" alt="Stats Card" />
-</p>
-
----
 
 ### 🟢 Contribution Graph 
 
