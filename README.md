@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/#77052744" width="150" height="150" alt="Profile Picture" style="border-radius: 50%;" />
-</p>
 
-<h3 align="center">Tray Haroun</h3>
+<h1 align="center">👋 Hey there! I'm Tray Haroun</h1>
 <p align="center">
   🧑‍💻 Software Engineer | DevOps Enthusiast  
   <br />
@@ -17,12 +14,6 @@
   <a href="https://github.com/Haroun2021" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://leetcode.com/Haroun2021/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
-
----
-
-<h1 align="center">👋 Hey there! I'm Tray Haroun</h1>
-<h3 align="center">🚀 Software Engineer | DevOps Enthusiast | Cloud & Backend Lover</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haroun2021&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Age-24-blue" alt="Age Badge" />
