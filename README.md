@@ -147,6 +147,20 @@ My career goal is to continuously grow as a **Software Engineer & DevOps Profess
 </p>
 
 ---
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:harountray33@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="35" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tray-haroun-4627a51b9" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" alt="LinkedIn" />
+  </a>
+</p>
+
+
+---
 ## 📊 GitHub Stats & Activity
 
 ### 🎯 Contribution & Profile Insights
@@ -186,17 +200,6 @@ My career goal is to continuously grow as a **Software Engineer & DevOps Profess
 
 
 
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="mailto:harountray33@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="35" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tray-haroun-4627a51b9" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" alt="LinkedIn" />
-  </a>
-</p>
 
 
 
