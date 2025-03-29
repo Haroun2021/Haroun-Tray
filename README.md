@@ -165,6 +165,7 @@ My career goal is to continuously grow as a **Software Engineer & DevOps Profess
 
 ### 🎯 Contribution & Profile Insights
 
+
 <table align="center">
   <tr>
     <td align="center">
@@ -180,12 +181,6 @@ My career goal is to continuously grow as a **Software Engineer & DevOps Profess
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroun2021&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haroun2021&theme=tokyonight" alt="Top Languages by Repo" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haroun2021&theme=tokyonight" alt="Stats Card" />
     </td>
   </tr>
 </table>
