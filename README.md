@@ -127,7 +127,7 @@ My career goal is to continuously grow as a **Software Engineer & DevOps Profess
 
 <p align="center">
   <a href="https://www.credly.com/badges/6468b57d-17d7-43da-ae1e-750dbb9ecc08/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/Haroun2021/Haroun2021/main/assets/aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS Cloud Foundations" width="120" />
+    <img src="assets/aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS Cloud Foundations" width="120" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/d779557b-0ffe-4810-ba6c-e6d419087378/public_url" target="_blank">
