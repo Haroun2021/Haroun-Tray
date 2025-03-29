@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Nationality-Tunisian-red" alt="Nationality Badge" />
 </p>
 
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=Haroun2021)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌟 About Me
 I'm a passionate **Junior Software Developer** and **DevOps enthusiast** with hands-on experience in web development, mobile applications, cloud integration, and DevOps practices. I enjoy solving complex problems and collaborating with teams to create impactful software solutions.
