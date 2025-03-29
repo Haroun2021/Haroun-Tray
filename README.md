@@ -190,17 +190,13 @@ My career goal is to continuously grow as a **Software Engineer & DevOps Profess
 
 <p align="center">
   <a href="mailto:harountray33@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="35" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/tray-haroun-4627a51b9" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" alt="LinkedIn" />
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:harountray33@gmail.com">harountray33@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/tray-haroun-4627a51b9" target="_blank">Tray Haroun</a>
-</p>
 
 
