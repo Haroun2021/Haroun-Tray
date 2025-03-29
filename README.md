@@ -175,8 +175,6 @@ My career goal is to continuously grow as a **Software Engineer & DevOps Profess
 
 ---
 
-### 🚀 Stats & Most Used Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Haroun2021&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
@@ -192,7 +190,7 @@ My career goal is to continuously grow as a **Software Engineer & DevOps Profess
 
 ---
 
-### 🟢 Contribution Graph & Snake Animation
+### 🟢 Contribution Graph 
 
 <p align="center">
   <img src="https://github-contributions-api.deno.dev/Haroun2021.svg" alt="Contribution Graph" />
